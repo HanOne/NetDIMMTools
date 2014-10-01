@@ -25,6 +25,6 @@ Commands:
 - Shutdown System-Shutdown "Raspberry Pi"
 
 Usage:
-Press <Cursor left><Cursor right> to switch between Game-Mode and Command-Mode.
+Press left & right to switch between Game-Mode and Command-Mode.
 - If no roms found, Game-Mode is not available
 - If no targets found, Ping/Reset/Select Target are not available
