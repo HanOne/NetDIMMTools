@@ -17,12 +17,12 @@ New Commands:
 - Shutdown System
 
 Commands:
-Ping Target - Test if selected NetDIMM is reachable
-Reset Target - Works on some Games, sometimes only in "Service Menu"
-Select Target - Select between all available targets from target list
-Restart Program - Restart NetDIMMTools
-Restart System - Restart "Raspberry Pi"
-Shutdown System - Shutdown "Raspberry Pi"
+Ping Target       Test if selected NetDIMM is reachable
+Reset Target      Works on some Games, sometimes only in "Service Menu"
+Select Target     Select between all available targets from target list
+Restart Program   Restart NetDIMMTools
+Restart System    Restart "Raspberry Pi"
+Shutdown System   Shutdown "Raspberry Pi"
 
 Usage:
 Press <Cursor left><Cursor right> to switch between Game-Mode and Command-Mode.
