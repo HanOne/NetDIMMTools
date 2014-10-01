@@ -5,9 +5,9 @@ NetDIMM Tools drives a Raspberry Pi with Adafruit LCD Plate and interfaces with 
 
 New Features:
 A config file is used for some parameters:
-- path to bios for naomi1/2
-- path to roms for each system
-- ip adresses of used netdimm boards
+- Path to bios for naomi1/2
+- Path to roms for each system
+- IP adresses of used netdimm boards
 
 Targets are scanned at startup - unavailable targets are purged
 Some commands have been added
