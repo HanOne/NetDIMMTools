@@ -1,0 +1,14 @@
+[Unit]
+Description=NetDIMM Tools v2.0
+After=syslog.target
+
+[Service]
+Type=notify
+Restart=always
+User=root
+Group=root
+WorkingDirectory=/boot/netdimmtools/
+ExecStart=/boot/netdimmtools/netdimmtools.py
+
+[Install]
+WantedBy=multi-user.target
