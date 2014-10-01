@@ -18,6 +18,7 @@ New Commands:
 
 Commands:
 Ping Target-Test if selected NetDIMM is reachable
+
 Reset Target-Works on some Games, sometimes only in "Service Menu"
 Select Target-Select between all available targets from target list
 Restart Program-Restart NetDIMMTools
