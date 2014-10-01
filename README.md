@@ -17,6 +17,11 @@ NetDIMM Tools drives a Raspberry Pi with Adafruit LCD Plate and interfaces with 
 - Restart System
 - Shutdown System
 
+## Usage:
+Press left & right to switch between Game-Mode and Command-Mode.
+- If no roms found, Game-Mode is not available
+- If no targets found, Ping/Reset/Select Target are not available
+- 
 ## Commands:
 - Ping Target-Test if selected NetDIMM is reachable
 - Reset Target-Works on some Games, sometimes only in "Service Menu"
@@ -25,7 +30,4 @@ NetDIMM Tools drives a Raspberry Pi with Adafruit LCD Plate and interfaces with 
 - Restart System-Restart "Raspberry Pi"
 - Shutdown System-Shutdown "Raspberry Pi"
 
-## Usage:
-Press left & right to switch between Game-Mode and Command-Mode.
-- If no roms found, Game-Mode is not available
-- If no targets found, Ping/Reset/Select Target are not available
+
