@@ -24,10 +24,10 @@ Press left & right to switch between Game-Mode and Command-Mode.
 
 ## Commands
 - Ping Target: Test if selected NetDIMM is reachable
-- Reset Target-Works on some Games, sometimes only in "Service Menu"
-- Select Target-Select between all available targets from target list
-- Restart Program-Restart NetDIMMTools
-- Restart System-Restart "Raspberry Pi"
-- Shutdown System-Shutdown "Raspberry Pi"
+- Reset Target: Works on some Games, sometimes only in "Service Menu"
+- Select Target: Select between all available targets from target list
+- Restart Program: Restart NetDIMMTools
+- Restart System: Restart "Raspberry Pi"
+- Shutdown System: Shutdown "Raspberry Pi"
 
 
