@@ -53,6 +53,8 @@ while config_file_verify != config_file_read:
 		lcd.clear()
 		lcd.message("Error: Programm\nCanceled!")
 		sleep (1)		
+		print config_file_verify
+		print config_file_read
 		
 targets_list=eval(parser.get("Parameters", "Targets"))
 startup_wait=int(parser.get("Parameters", "Startup Wait"))
@@ -283,7 +285,7 @@ while True:
 				lcd.clear()
 				lcd.ToggleBlink()
 				lcd.stop()
-				sleep (1)
+				sleep(1)
 				call(["shutdown", "-h", "now"])
 
 			elif selection is "Restart System" and restart_system_available is 1:
